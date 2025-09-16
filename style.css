@@ -162,6 +162,15 @@ th {
     background-color: #0056b3;
 }
 
+.button-group button[type="reset"] {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.button-group button[type="reset"]:hover {
+    background-color: #0056b3;
+}
+
 header {
     background-image: url(info.jpg);
     width: 100%;
